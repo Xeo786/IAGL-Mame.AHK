@@ -1,5 +1,6 @@
 # IAGL-Mame.AHK
 IAGL Mame.AHK let you download and launch Retro Games
+https://www.autohotkey.com/boards/viewtopic.php?f=19&t=101375
 
 # Instalation:
 1) You need to Mame.exe
